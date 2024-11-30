@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Aryan Upadhyay!
 
 ### 🌱 First-Year College Student | Aspiring Full-Stack Developer | Tech Enthusiast
 
