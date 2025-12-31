@@ -10,7 +10,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+---
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
+
+---
 
 ### 🚀 About Me
 
@@ -53,16 +59,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UsaaryanByte07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsaaryanByte07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UsaaryanByte07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UsaaryanByte07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsaaryanByte07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsaaryanByte07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsaaryanByte07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsaaryanByte07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 ---
@@ -191,13 +197,19 @@ const aryan = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/UsaaryanByte07/UsaaryanByte07/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsaaryanByte07/UsaaryanByte07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsaaryanByte07/UsaaryanByte07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UsaaryanByte07/UsaaryanByte07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ### 📈 Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UsaaryanByte07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UsaaryanByte07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophy" />
+</p>
 
 ---
 
