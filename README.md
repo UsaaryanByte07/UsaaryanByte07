@@ -59,15 +59,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=UsaaryanByte07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsaaryanByte07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=UsaaryanByte07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsaaryanByte07&theme=tokyonight" alt="Activity Graph"/>
 </div>
 
@@ -201,10 +192,10 @@ const aryan = {
 
 ---
 
-### 📈 Profile Trophy
+### � GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UsaaryanByte07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsaaryanByte07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
