@@ -21,10 +21,11 @@
 ### 🚀 About Me
 
 🎓 **Second-Year Engineering Student** passionate about building impactful solutions  
-💻 **Full-Stack Developer** crafting seamless web experiences    
-🌱 **Currently Mastering**: DSA & React 
+💻 **Full-Stack Developer (MERN)** crafting seamless web experiences  
+🌱 **Currently Focused On**: Integrating AI tools & building advanced MERN applications  
+🔮 **Future Goal**: Mastering Data Structures & Algorithms (DSA)  
 ⚡ **Fun fact**: I document my entire coding journey publicly!  
-🎯 **2026 Goal**: Master DSA & contribute to major open-source projects
+🎯 **2026 Goal**: Architect production-grade applications & contribute to open source
 
 ---
 
@@ -45,6 +46,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,13 +73,11 @@
 
 <div align="center">
 
-### 🩸 [AidGrid Platform](https://github.com/UsaaryanByte07/aid-grid-platform)
-**Blood Donation Management System**
+### 🌐 [Full-Stack Mini Projects](https://github.com/UsaaryanByte07/MiniProjects-Using-Basic-Full-Stack-Web-Development)
+**Interactive Web Applications** 🎨  
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-`React` `TypeScript` `Node.js` `TailwindCSS` `Vite` `shadcn/ui`
-
-A revolutionary platform connecting donors, hospitals, and communities. Built for Ignite Hackathon with Team Syntax Slayer.  
-✨ Real-time blood requests • AI chatbot • Donor matching • Impact analytics
+Modern, responsive mini-projects showcasing frontend skills and creativity
 
 ---
 
@@ -87,37 +90,23 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 
 ---
 
-### 🔧 [Learning C](https://github.com/UsaaryanByte07/Learning-C)
-**Complete C Programming Mastery** ⚙️  
-`C` `Pointers` `Memory Management` `Data Structures`
-
-12 chapters • Practice sets • Real projects • File handling • Dynamic memory allocation  
-✅ **Status**: Completed - From basics to advanced concepts
-
----
-
-### 🧠 [Mental Wellness Platform](https://github.com/UsaaryanByte07/sih-project)
+### 🧠 [Mental Wellness Platform](https://github.com/Jaideep24/sih-project/)
 **SIH Mental Health Management System** 💚  
-`Django` `Python` `PostgreSQL` `Real-time Chat`
+`Django` `Python` `SQLlite` `Real-time Chat`
 
 Complete mental wellness ecosystem • Mood tracking • Journal entries • Counselor booking • Peer support  
-🚀 Deployed on Vercel with comprehensive features
+🚀 Deployed on PythonAnywhere with comprehensive features
 
 ---
 
-### 🌐 [Full-Stack Mini Projects](https://github.com/UsaaryanByte07/MiniProjects-Using-Basic-Full-Stack-Web-Development)
-**Interactive Web Applications** 🎨  
-`HTML5` `CSS3` `JavaScript` `Responsive Design`
+### 🩸 [AidGrid Platform](https://github.com/UsaaryanByte07/aid-grid-platform)
+**Blood Donation Management System**
 
-Modern, responsive mini-projects showcasing frontend skills and creativity
+`React` `TypeScript` `Node.js` `TailwindCSS` `Vite` `shadcn/ui`
 
----
+A revolutionary platform connecting donors, hospitals, and communities. Built for Ignite Hackathon with Team Syntax Slayer.  
+✨ Real-time blood requests • AI chatbot • Donor matching • Impact analytics
 
-### 🔐 [C Projects Collection](https://github.com/UsaaryanByte07/Projects-Using-C)
-**Practical C Implementations** 🛡️  
-`C` `File Operations` `Encryption` `Algorithms`
-
-File encryption/decryption • Auto-updating README • GitHub Actions CI/CD
 
 </div>
 
@@ -129,41 +118,36 @@ File encryption/decryption • Auto-updating README • GitHub Actions CI/CD
 
 | 🎯 Mastered | 📖 In Progress | 🚀 Coming Soon |
 |:---:|:---:|:---:|
-| ✅ C Programming | 🔄 React | 🎯 DSA in Java |
+| ✅ C Programming | 🔄 MongoDB | 🎯 DSA in Java |
 | ✅ HTML/CSS | | 🎯 TypeScript |
-| ✅ JavaScript | | 🎯 Node.js |
-| ✅ Java OOP | | 🎯 Express.js |
-| ✅ Bootstrap | | 🎯 Django |
-| ✅ TailwindCSS | | 🎯 MongoDB |
+| ✅ JavaScript | | 🎯 Django |
+| ✅ Java OOP | | |
+| ✅ Bootstrap | | |
+| ✅ TailwindCSS | | |
 | ✅ Git & GitHub | | |
 | ✅ Python | | |
+| ✅ React | | |
+| ✅ Node.js | | |
+| ✅ Express.js | | |
 
 </div>
-
-### 🎓 Structured Learning Repositories
-
-```
-📁 Learning-CSS-And-HTML/     → 9 chapters + practice projects
-📁 Learning-Js/                → 17 chapters covering beginner to advanced
-📁 Java-Basics-to-OOP/         → 13 chapters + exercises + challenges
-📁 Learning-C/                 → 12 chapters + practice sets + projects
-```
 
 ---
 
 ## 🔥 Current Focus (2026)
-
+MongoDB
 ```javascript
 const aryan = {
-  currentlyLearning: ["Java OOP", "Advanced React", "DSA Fundamentals"],
+  currentlyLearning: [ "MongoDB", "AI Tools Integration", "Advanced MERN Development" ],
   activeProjects: ["AidGrid Platform", "Mental Wellness App"],
   goals2026: [
     "Master Data Structures & Algorithms",
     "Contribute to 10+ open source projects",
     "Build production-ready full-stack applications",
-    "Win more hackathons 🏆"
+    "Win more hackathons 🏆",
+    "Expand my knowledge in AI tools and their integration"
   ],
-  askMeAbout: ["Web Dev", "Java", "C", "Open Source", "Hackathons"],
+  askMeAbout: ["Web Dev", "Java","C Programming", "Open Source", "Hackathons", "AI Tools"],
   funFact: "I believe in learning by building and sharing knowledge!"
 };
 ```
@@ -175,6 +159,7 @@ const aryan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsaaryanByte07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-upadhyay-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/UsaaryanByte07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usaaryan79@gmail.com)
 
