@@ -50,6 +50,9 @@
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -116,19 +119,21 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 
 <div align="center">
 
-| 🎯 Mastered | 📖 In Progress | 🚀 Coming Soon |
-|:---:|:---:|:---:|
-| ✅ C Programming | 🔄 MongoDB | 🎯 DSA in Java |
-| ✅ HTML/CSS | | 🎯 TypeScript |
-| ✅ JavaScript | | 🎯 Django |
-| ✅ Java OOP | | |
-| ✅ Bootstrap | | |
-| ✅ TailwindCSS | | |
-| ✅ Git & GitHub | | |
-| ✅ Python | | |
-| ✅ React | | |
-| ✅ Node.js | | |
-| ✅ Express.js | | |
+| 🎯 Mastered | 🚀 Coming Soon |
+|:---:|:---:|
+| ✅ C Programming | 🎯 DSA in Java |
+| ✅ HTML/CSS |  🎯 TypeScript |
+| ✅ JavaScript |  🎯 Django |
+| ✅ Java OOP | 
+| ✅ Bootstrap |
+| ✅ TailwindCSS | 
+| ✅ Git & GitHub |
+| ✅ Python |
+| ✅ React |
+| ✅ Node.js |
+| ✅ Express.js |
+| ✅ MySQL |
+| ✅ MongoDB |
 
 </div>
 
@@ -138,7 +143,7 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 MongoDB
 ```javascript
 const aryan = {
-  currentlyLearning: [ "MongoDB", "AI Tools Integration", "Advanced MERN Development" ],
+  currentlyLearning: ["AI Tools Integration", "Advanced MERN Development" ],
   activeProjects: ["AidGrid Platform", "Mental Wellness App"],
   goals2026: [
     "Master Data Structures & Algorithms",
