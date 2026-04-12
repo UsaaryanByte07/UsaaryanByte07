@@ -59,6 +59,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-1672B6?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -76,20 +78,30 @@
 
 <div align="center">
 
+
+### 📝 [NoteDown](https://github.com/UsaaryanByte07/NoteDown)
+**AI-Powered Study Hub** 📘  
+`React` `Node.js` `MongoDB` `AWS S3` `Tesseract.js` `VirusTotal API`
+
+Full-stack study platform for transforming handwritten notes and PDFs into intelligent materials.  
+✨ Features 70+ antivirus engine scanning, intelligent OCR extraction, and robust role-based security.
+
+---
+
+### 🛡️ [NoFraud](https://github.com/UsaaryanByte07/NoFraud)
+**Universal Threat Intelligence Hub** 🔍  
+`Gen AI` `MERN` `Chrome Extension` `VirusTotal` `Sightengine`
+
+A comprehensive cyber defense platform utilizing AI to detect and analyze emerging digital threats. Finalist at IndiaNext Hackathon.  
+🚀 Real-time protection against malicious files, URLs, and deepfakes.
+
+---
+
 ### 🌐 [Full-Stack Mini Projects](https://github.com/UsaaryanByte07/MiniProjects-Using-Basic-Full-Stack-Web-Development)
 **Interactive Web Applications** 🎨  
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 Modern, responsive mini-projects showcasing frontend skills and creativity
-
----
-
-### ☕ [Java: Basics to OOP](https://github.com/UsaaryanByte07/Java-Basics-to-OOP)
-**Comprehensive Java Learning Journey** 📚  
-`Java` `OOP` `DSA` `Practice Sets` `Programming Challenges`
-
-13 chapters covering fundamentals to advanced OOP • 100+ practice questions • Preparing for DSA journey  
-🎯 Mastered Object-Oriented Programming Principles
 
 ---
 
@@ -124,9 +136,9 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 | ✅ C Programming | 🎯 DSA in Java |
 | ✅ HTML/CSS |  🎯 TypeScript |
 | ✅ JavaScript |  🎯 Django |
-| ✅ Java OOP | 
-| ✅ Bootstrap |
-| ✅ TailwindCSS | 
+| ✅ Java OOP | 🎯 LangChain |
+| ✅ Bootstrap | 🎯 Vector Embedding |
+| ✅ TailwindCSS | 🎯 MongoDB vector search |
 | ✅ Git & GitHub |
 | ✅ Python |
 | ✅ React |
@@ -134,6 +146,9 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 | ✅ Express.js |
 | ✅ MySQL |
 | ✅ MongoDB |
+| ✅ JWT |
+| ✅ AWS S3 |
+| ✅ Tesseract.js |
 
 </div>
 
@@ -143,8 +158,8 @@ A revolutionary platform connecting donors, hospitals, and communities. Built fo
 MongoDB
 ```javascript
 const aryan = {
-  currentlyLearning: ["AI Tools Integration", "Advanced MERN Development" ],
-  activeProjects: ["AidGrid Platform", "Mental Wellness App"],
+  currentlyLearning: ["AI Tools Integration", "Advanced MERN Development", "LangChain", "Vector Embedding", "MongoDB Vector Search"],
+  activeProjects: ["NoteDown", "NoFraud", "AidGrid Platform", "Mental Wellness App"],
   goals2026: [
     "Master Data Structures & Algorithms",
     "Contribute to 10+ open source projects",
